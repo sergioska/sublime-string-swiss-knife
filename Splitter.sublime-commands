@@ -1,0 +1,14 @@
+[
+    {
+        "caption": "chunkize: split long string",
+        "command": "chunkize"
+    },
+    {
+        "caption": "joinize: merge strings",
+        "command": "joinize"
+    },
+    {
+        "caption": "scriptize: recursive script from chunks",
+        "command": "scriptize"
+    }
+]
